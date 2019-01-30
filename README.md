@@ -6,10 +6,6 @@ output:
 author: Sayuri Takeda 
 ---
 
-
-
-
-
 \usepackage{amsmath}
 
 ## Word Embedding
@@ -92,7 +88,7 @@ Modelo CBOW simples com apenas uma palavra do contexto.
 
 ## Modelo CBOW 
 
-<center><img src="/CBOW.PNG"></center>
+<center><img src="/CBOW.png"></center>
 
 ## Modelo Skip-gram 
 

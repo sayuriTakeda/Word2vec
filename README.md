@@ -14,7 +14,7 @@ Técnica de NLP onde palavras são mapeadas para vetores.
 
 Exemplo de palavra idiomática:
 
-![](README_figs/README-unnamed-chunk-2-1.png)<!-- -->
+![](/README-unnamed-chunk-2-1.png)<!-- -->
 
 Duas possíveis **aplicações** de word embedding podem ser:
 
@@ -55,10 +55,10 @@ Sabemos que, dentro do contexto, <span style="color:#ff3300">**"bom"**</span> de
 
 Softmax pega um vetor não normalizado e retorna um vetor normalizado baseado em uma distribuição de <span style="color:#ff3300">probabilidade</span>.
 
-<center><img src="/CodeCogsEqn.PNG"></center>
+<center><img src="/CodeCogsEqn.png"></center>
 </br>
 </br>
-<center><img src="/ex_sofmax.PNG"></center>
+<center><img src="/ex_sofmax.png"></center>
 
 ## Word2vec
 
@@ -95,7 +95,7 @@ Modelo CBOW simples com apenas uma palavra do contexto.
 
 ## CBOW X Skip-gram 
 
-![](README_figs/README-unnamed-chunk-3-1.png)<!-- -->
+![](/README-unnamed-chunk-3-1.png)<!-- -->
 
 
 ## Skip-gram 
@@ -115,7 +115,7 @@ Duas inovações que foram feitas em um segundo paper que aumentam a <span style
 
 ## Continuação Skip-gram 
 
-![](README_figs/README-unnamed-chunk-4-1.png)<!-- -->
+![](/README-unnamed-chunk-4-1.png)<!-- -->
 
 
 ## Exemplo com Skip-gram
@@ -137,8 +137,8 @@ Duas inovações que foram feitas em um segundo paper que aumentam a <span style
 <center>
 <table>
 <tr>
-<td><img src="TED\\Capture_7.PNG"></td>
-<td><img src="TED\\Capture_8.PNG"></td>
+<td><img src="\Capture_7.PNG"></td>
+<td><img src="\Capture_8.PNG"></td>
 </tr>
 </table>
 </center>
@@ -148,13 +148,13 @@ Duas inovações que foram feitas em um segundo paper que aumentam a <span style
 <center>
 <table>
 <tr>
-<td><img src="TED\\Capture_9.PNG"></td>
-<td><img src="TED\\Capture_10.PNG"></td>
+<td><img src="\Capture_9.PNG"></td>
+<td><img src="\Capture_10.PNG"></td>
 </tr>
 </table>
 </center>
 
-<center><img src="TED\\Capture_11.PNG" width="300" height="300"></center>
+<center><img src="\Capture_11.PNG" width="300" height="300"></center>
 
 ## Prática
 

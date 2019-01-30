@@ -84,7 +84,7 @@ Não existe função de ativação com sigmoide, than ou relu:
 
 Modelo CBOW simples com apenas uma palavra do contexto.
 
-<center><img src="/simple-CBOW.PNG"></center>
+<center><img src="/simple-CBOW.png"></center>
 
 ## Modelo CBOW 
 
@@ -92,7 +92,7 @@ Modelo CBOW simples com apenas uma palavra do contexto.
 
 ## Modelo Skip-gram 
 
-<center><img src="/Skip-Gram.PNG"></center>
+<center><img src="/Skip-Gram.png"></center>
 
 
 ## CBOW X Skip-gram 

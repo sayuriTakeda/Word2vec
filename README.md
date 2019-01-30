@@ -55,10 +55,10 @@ Sabemos que, dentro do contexto, <span style="color:#ff3300">**"bom"**</span> de
 
 Softmax pega um vetor não normalizado e retorna um vetor normalizado baseado em uma distribuição de <span style="color:#ff3300">probabilidade</span>.
 
-<center><img src="/CodeCogsEqn.png"></center>
+<center><img src="/CodeCogsEqn.PNG"></center>
 </br>
 </br>
-<center><img src="/ex_sofmax.png"></center>
+<center><img src="/ex_sofmax.PNG"></center>
 
 ## Word2vec
 

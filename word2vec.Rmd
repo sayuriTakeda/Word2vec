@@ -1,8 +1,16 @@
 ---
 title: "Word Embedding"
-output: ioslides_presentation
+output: 
+  html_document:
+    keep_md: true
 author: Sayuri Takeda 
 ---
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  fig.path = "README_figs/README-"
+)
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

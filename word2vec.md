@@ -32,7 +32,7 @@ Duas possíveis **aplicações** de word embedding podem ser:
 Facebook AI Research (FAIR)
 </br>
 </br>
-<center><img src="images/futuro.PNG" width="690" height = "250"></center>
+<center><img src="futuro.PNG" width="690" height = "250"></center>
 
 ## One Hot Encoding
 

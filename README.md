@@ -6,8 +6,6 @@ output:
 author: Sayuri Takeda 
 ---
 
-\usepackage{amsmath}
-
 ## Word Embedding
 
 Técnica de NLP onde palavras são mapeadas para vetores.

@@ -118,7 +118,7 @@ Duas inovações que foram feitas em um segundo paper que aumentam a <span style
 ![](/README-unnamed-chunk-4-1.png)<!-- -->
 
 
-## Exemplo com Skip-gram
+## Opinion
 
 </br>
 <center>
